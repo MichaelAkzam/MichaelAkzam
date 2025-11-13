@@ -4,7 +4,6 @@
 * 💻 I have completed SWE Internships @ [AMD (Advanced Micro Devices)](https://www.amd.com), [National Bank of Canada](http://nbc.ca), etc.
 * 🔎 I worked as an ML Researcher @ UofT, where I [published a paper](https://arxiv.org/abs/2312.11509) on mental health & AI in AAAI 2024.
 
----
 
 ### 🛠️ Skills
 
